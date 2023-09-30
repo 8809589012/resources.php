@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: mVb3aiupgd73jb2+4PpZPXOu9ODRzc5KAWBjdFeIBXE=
+
+Name: classes.dex
+SHA-256-Digest: vH7G0KGH6CJwJAKcP7c/HN7f9SCy4sQ4Q3c/XK9v7f0=
+
+Name: classes2.dex
+SHA-256-Digest: cPZaXcLZ7qcx7/5IrLv90vGn7+FRtkfzDkoSRpH83DA=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: ZhOF2VXo/puRbAKMen5MAEnu8HOof/03mrcjZ3iYnCs=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: q542A8ZQbkoLZKnFRefNLJqCepWiMD5kXQ3RA2JE9cM=
+
+Name: res/layout/main.xml
+SHA-256-Digest: /NRZde7bF4O3A0JrBVHOnxPf5bayKiGpMCd25k0GFLI=
+
+Name: resources.arsc
+SHA-256-Digest: 4INMrt3+FYkDb+aOwij4Jdswt3cMVmqnp2Vp+COvGhI=
+
